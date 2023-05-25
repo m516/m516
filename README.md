@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a student at Iowa State University, studying robot design, control, and perception.
+I'm a student at Iowa State University, studying robot control and perception.
 
 Outside of work and classes, I enjoy climbing, mountain biking, blowing glass, playing making electronic music, and playing board games.
 
