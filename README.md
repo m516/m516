@@ -10,7 +10,7 @@ Let's get in touch. My email is: `$ echo "1RWZuUGdhR3chlGQ5Rmb11Wb" | rev | base
   <p align="center"> GitHub Stats </p>
 </h2>
 
-<p align="center"> <a href="https://github.com/m516/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m516" alt="m516" /></a> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=m516" alt="m516" /></p>
 
 <table>
   <tr>
